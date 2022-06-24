@@ -50,7 +50,7 @@ docekr-compose exec web python manage.py collectstatic --no-input
 ```
 10. По желанию загрузить готовую базу командой:
 ```
-docekr-compose exec web python manage.py loaddata fixtures.json
+docekr-compose exec web python manage.py load_data_csv
 ```
 11. Для остановки работы контейнеров используйте команду:
 ```
@@ -68,3 +68,6 @@ http://localhost/admin/
 ```
 http://localhost/redoc/
 ```
+
+Автор:<br>
+Живов Игорь - https://github.com/Jloogle
