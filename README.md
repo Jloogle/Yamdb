@@ -80,5 +80,5 @@ http://localhost/admin/
 http://localhost/redoc/
 ```
 
-Автор:<br>
+# Разработчик
 Живов Игорь - https://github.com/Jloogle
