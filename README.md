@@ -8,7 +8,7 @@ Api v1 для проекта api_YaMDb<br>
  ```
 2. Склонировать репозиторий командой:
  ```
- git clone git@github.com:Jloogle/infra_sp2.git
+ git clone git@github.com:Jloogle/Yamdb.git
  ```
 3. Перейти в папку с проектом, установить виртуальное окружение и активировать его:
 ```
