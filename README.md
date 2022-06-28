@@ -6,11 +6,14 @@ Api v1 для проекта api_YaMDb<br>
 
 При разработке использован следущий стек технологий:
 
-Python 3.7<br>
-Django 2.2.19<br>
-Django Rest Framework<br>
-Simple-GWT<br>
-PstgreSQL
+* Python 3.7
+* Django 2.2.19
+* Django Rest Framework
+* Simple-GWT
+* PstgreSQL
+* Docker
+* nginx
+
 
 # Установка
 1. Проверьте версию docker и убедитесь что он установлен, командой:
